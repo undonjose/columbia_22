@@ -1,2 +1,1 @@
-# columbia_22
-Hi David
+this is magical
